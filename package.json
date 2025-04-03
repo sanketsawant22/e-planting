@@ -1,5 +1,5 @@
 {
-  "homepage": "http://arslanr369.github.io/React-e-plantShopping",
+  "homepage": "https://github.com/sanketsawant22/e-planting",
   "name": "shoppingcart",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite build; vite preview --host",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
